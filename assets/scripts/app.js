@@ -1,4 +1,4 @@
-const ATTACK_VALUE = 11;
+const ATTACK_VALUE = 10;
 const MONSTER_ATTACK_VALUE = 14;
 
 let chosenMaxLife = 100;
